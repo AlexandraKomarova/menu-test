@@ -31,4 +31,4 @@ export const MenuItem = ({ i }) => {
       <div className="text-placeholder" style={style} />
     </motion.li>
   );
-};
+}
