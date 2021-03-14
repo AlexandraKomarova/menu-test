@@ -22,7 +22,7 @@ const sidebar = {
       damping: 40
     }
   }
-};
+}
 
 export const Example = () => {
   const [isOpen, toggleOpen] = useCycle(false, true);

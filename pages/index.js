@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>menu test</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/flask.png" />
       </Head>
       <Example />
     </div>
